@@ -1,2 +1,3 @@
 # ALMAgalExperiments
- Code experiments using ALMAgal
+
+A repository devoted to code experiments for the analyis of ALMAgal
