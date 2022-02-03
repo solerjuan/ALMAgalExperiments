@@ -25,5 +25,6 @@ def  chiara_test(n):
 
 		print('\n mean value of the gaussian distribution : ', mean, '\n')
 		print('\n std of the gaussian distribution : ', std, '\n')
-
+		print('\n median value of the gaussian distribution : ', median, '\n')
+		
 	return None
